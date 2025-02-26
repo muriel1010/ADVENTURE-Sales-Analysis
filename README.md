@@ -86,7 +86,7 @@ Through data transformation, modeling, and visualization techniques, this projec
 ---
 
 ## 🎥 Project Demo  
-![Dashboard Preview](your_gif_link.gif)  
+![Dashboard Preview](https://1drv.ms/x/c/070242485c39531c/Eaz2lZU2aVBAjmmFytA5pJkBYsVoemJy1t8tmZ9yA-Omyw?e=TTtSMQ))  
 📺 **[Watch the Full Video](your_youtube_link)**  
 
 
