@@ -8,7 +8,7 @@ It provides insights into sales performance, customer behavior, and product prof
 ---
 
 ## 📌 Table of Contents  
-- [About the Project](# 📊 About the Project)  
+- [About the Project](#📊About the Project)  
 - [Techniques & Features](#techniques--features)  
 - [Dashboards Overview](#dashboards-overview)  
 - [Installation & How to Use](#installation--how-to-use)  
