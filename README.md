@@ -86,8 +86,8 @@ Through data transformation, modeling, and visualization techniques, this projec
 ---
 
 ## 🎥 Project Demo  
- **[Time series Dashboard](https://1drv.ms/x/c/070242485c39531c/Eaz2lZU2aVBAjmmFytA5pJkBYsVoemJy1t8tmZ9yA-Omyw?e=TTtSMQ)**  
- **[Product and Customer  Dashboard](https://1drv.ms/x/c/070242485c39531c/EUN_KCuydb1Dr4pDLKKtBAMBTfOVIeWFMsY3OKiA9BJIvQ?e=7FDsHb&nav=MTVfezk5RUE4RThDLTVBRjAtNDI1QS1CQjJGLTY0OUE2OEFEOUVDNn0))** 
+ **[Time series Dashboard](https://1drv.ms/x/c/070242485c39531c/EUN_KCuydb1Dr4pDLKKtBAMBTfOVIeWFMsY3OKiA9BJIvQ?e=bGJYAm&nav=MTVfezk4NURFRkQ3LTE3QkEtNDgxMS1CNkNDLUZEMUU3QTA5QTdFRX0)**  
+ **[Product and Customer  Dashboard](https://1drv.ms/x/c/070242485c39531c/EUN_KCuydb1Dr4pDLKKtBAMBTfOVIeWFMsY3OKiA9BJIvQ?e=7FDsHb&nav=MTVfezk5RUE4RThDLTVBRjAtNDI1QS1CQjJGLTY0OUE2OEFEOUVDNn0)** 
 
 
 ---
