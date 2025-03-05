@@ -13,7 +13,8 @@ It provides insights into sales performance, customer behavior, and product prof
 - [Dashboards Overview](#dashboards-overview)  
 - [Installation & How to Use](#installation--how-to-use)  
 - [Key Insights](#key-insights)  
-- [Project Demo](#project-demo)   
+- [Project Demo](#project-demo)
+- [Conclusion](#conclusion) 
 
 ---
 
