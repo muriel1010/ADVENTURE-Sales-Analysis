@@ -91,16 +91,17 @@ Through data transformation, modeling, and visualization techniques, this projec
 
  **[Demo :](https://1drv.ms/x/c/070242485c39531c/EUN_KCuydb1Dr4pDLKKtBAMBTfOVIeWFMsY3OKiA9BJIvQ?e=bGJYAm&nav=MTVfezk4NURFRkQ3LTE3QkEtNDgxMS1CNkNDLUZEMUU3QTA5QTdFRX0)**  
  
- **[ScreenShot :]**
+ **[ScreenShot ]**
  
  ![Dashboard Screenshot ](https://github.com/muriel1010/ADVENTURE-Sales-Analysis/blob/main/salesDashboard.png)**
 
  
 
  **[Product and Customer  Dashboard]**
+ 
  **[Demo :](https://1drv.ms/x/c/070242485c39531c/EUN_KCuydb1Dr4pDLKKtBAMBTfOVIeWFMsY3OKiA9BJIvQ?e=7FDsHb&nav=MTVfezk5RUE4RThDLTVBRjAtNDI1QS1CQjJGLTY0OUE2OEFEOUVDNn0)** 
 
- **[ScreenShot : ]**
+ **[ScreenShot ]**
  
  ![Dashboard Screenshot](https://github.com/muriel1010/ADVENTURE-Sales-Analysis/blob/main/product_customerDashboard.png)**
  
