@@ -8,17 +8,17 @@ It provides insights into sales performance, customer behavior, and product prof
 ---
 
 ## 📌 Table of Contents  
-- [📊About the Project](#About-the-Project)  
-- [Techniques & Features](#techniques--features)  
-- [Dashboards Overview](#dashboards-overview)  
-- [Installation & How to Use](#installation--how-to-use)  
-- [Key Insights](#key-insights)  
-- [Project Demo](#project-demo)
-- [Conclusion](#conclusion) 
+- [About the Project](#-About-the-Project)  
+- [Techniques & Features](#-techniques--features)  
+- [Dashboards Overview](#-dashboards-overview)  
+- [Installation & How to Use](#-installation--how-to-use)  
+- [Key Insights](#-key-insights)  
+- [Project Demo](#-project-demo)
+- [Conclusion](#-conclusion) 
 
 ---
 
-##  About the Project  
+## 📊 About the Project  
 This project analyzes **sales data** to help businesses optimize sales strategies. This project showcases an Excel-based Sales Analytics Dashboard that leverages Power Query, Power Pivot, and DAX to transform raw sales data into actionable insights. It includes two dynamic dashboards:
 
 **Time Series Dashboard** –
