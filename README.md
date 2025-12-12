@@ -24,24 +24,24 @@ This project analyzes **sales data** to help businesses optimize sales strategie
 **Time Series Dashboard** –
 **Product & Customer Analysis Dashboard** –  
 The dashboards provide **interactive insights** into:  
-✅ **Yearly & Monthly Performance Trends**  
-✅ **Customer & Product Profitability**  
-✅ **Geographic Sales Distribution**  
-✅ **Pricing Strategy Effectiveness**  
-✅ **Dynamic Filtering for Deeper Analysis**  
+ **Yearly & Monthly Performance Trends**  
+ **Customer & Product Profitability**  
+ **Geographic Sales Distribution**  
+ **Pricing Strategy Effectiveness**  
+ **Dynamic Filtering for Deeper Analysis**  
 
 ---
 
 ##  Techniques & Features  
-🔹 **Power Query:**  Cleaned, reshaped, and structured raw sales data for analysis 
+ **Power Query:**  Cleaned, reshaped, and structured raw sales data for analysis 
 
-🔹 **Power Pivot:** Built robust data relationships for dynamic insights 
+ **Power Pivot:** Built robust data relationships for dynamic insights 
 
-🔹 **DAX Formulas:** Implemented advanced calculations and performance metrics  
+ **DAX Formulas:** Implemented advanced calculations and performance metrics  
 
-🔹 **Excel Functions:** Applied logical formulas for deep insights 
+ **Excel Functions:** Applied logical formulas for deep insights 
 
-🔹 **Data Visualization:** Custom charts, slicers & maps  
+ **Data Visualization:** Custom charts, slicers & maps  
 
 ---
 
